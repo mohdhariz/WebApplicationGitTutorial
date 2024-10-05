@@ -253,6 +253,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="ModuleA\Function1.vb" />
+    <Compile Include="ModuleB\FunctionB_1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
