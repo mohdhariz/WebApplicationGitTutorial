@@ -11,7 +11,7 @@
     <%-- Every Element below is a commit --%>
     <p>Name: Stephen Sim</p>
     <p>Age: 22</p>
-    <p>Gender: Male</p>
+    <p>Gender: Male and single</p>
     <p>Address: FTMK, UTeM</p>
 </body>
 </html>
