@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>This is Stephen's Page</h1>
+    <%-- Every Element below is a commit --%>
+    <p>Name: Stephen Sim</p>
+    <p>Age: 22</p>
+    <p>Gender: Male</p>
+    <p>Address: FTMK, UTeM</p>
 </body>
 </html>
